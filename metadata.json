@@ -1,0 +1,6 @@
+{
+  "name": "Quantum PC & Store CRM",
+  "description": "PC & Tech Store Catalog, Builder, CRM and Inventory Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
